@@ -81,7 +81,7 @@ The main script (`lasso_regression.py`) is structured as follows:
 ## Troubleshooting
 
 * **R_HOME Error:** Ensure that the `R_HOME` environment variable is correctly set to the path of your R installation.
-* **Package Issues:** Confirm that all dependencies listed in `requirements.txt` are installed.
+* **Package Issues:** Confirm that all dependencies listed in are installed.
 
 
 
